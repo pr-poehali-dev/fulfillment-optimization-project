@@ -37,8 +37,8 @@ export default function Navbar() {
         </nav>
 
         <div className="hidden md:flex items-center gap-4">
-          <a href="tel:+78001234567" className="text-sm font-semibold text-[hsl(var(--navy))]">
-            8 800 123-45-67
+          <a href="tel:+79959821092" className="text-sm font-semibold text-[hsl(var(--navy))]">
+            +7 995 982-10-92
           </a>
           <a
             href="#contacts"

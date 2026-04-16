@@ -38,7 +38,7 @@ export default function ContactsSection() {
 
               <div className="space-y-5">
                 {[
-                  { icon: "Phone", label: "Телефон", value: "8 800 123-45-67 (бесплатно)" },
+                  { icon: "Phone", label: "Телефон", value: "+7 995 982-10-92" },
                   { icon: "Mail", label: "Email", value: "hello@logipro.ru" },
                   { icon: "MapPin", label: "Склад", value: "Москва, Новорижское ш., 26-й км" },
                   { icon: "Clock", label: "Режим работы", value: "Пн–Пт 9:00–18:00, склад 24/7" },
