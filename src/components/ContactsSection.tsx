@@ -39,9 +39,9 @@ export default function ContactsSection() {
               <div className="space-y-5">
                 {[
                   { icon: "Phone", label: "Телефон", value: "+7 995 982-10-92" },
-                  { icon: "Mail", label: "Email", value: "hello@logipro.ru" },
-                  { icon: "MapPin", label: "Склад", value: "Москва, Новорижское ш., 26-й км" },
-                  { icon: "Clock", label: "Режим работы", value: "Пн–Пт 9:00–18:00, склад 24/7" },
+                  { icon: "Mail", label: "Email", value: "wegaprod@yandex.ru" },
+                  { icon: "MapPin", label: "Склад", value: "Казань, ул. Братьев Петряевых 5к4" },
+                  { icon: "Clock", label: "Режим работы", value: "Ежедневно с 10:00 до 20:00" },
                 ].map((c) => (
                   <div key={c.label} className="flex gap-4 items-start">
                     <div className="w-10 h-10 rounded-lg flex-shrink-0 flex items-center justify-center" style={{ background: "hsl(218,65%,18%,0.08)" }}>
