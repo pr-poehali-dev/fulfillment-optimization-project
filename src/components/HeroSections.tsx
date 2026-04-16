@@ -1,8 +1,8 @@
 import Icon from "@/components/ui/icon";
 
 const STATS = [
-  { value: "2 400+", label: "клиентов доверяют нам" },
-  { value: "18 000 м²", label: "складских площадей" },
+  { value: "900+", label: "клиентов доверяют нам" },
+  { value: "1 000+ м²", label: "складских площадей" },
   { value: "99.7%", label: "точность сборки" },
   { value: "8 лет", label: "на рынке логистики" },
 ];
